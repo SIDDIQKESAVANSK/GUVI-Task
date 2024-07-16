@@ -1,1 +1,1 @@
-jhfgcmn ﻿new script file1
+﻿new script file1
